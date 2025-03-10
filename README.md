@@ -1,2 +1,2 @@
-# Deep Learn with pytprch
+# Deep Learn with pytorch
 # NLP with shakesphere sonnet
